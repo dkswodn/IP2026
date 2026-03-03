@@ -1,1 +1,1 @@
-# IP2026
+# ImageProcessing 2026
