@@ -2,4 +2,5 @@
 
 ## HW1
 
-[![Video](https://img.youtube.com/vi/UC1Db6cBqJqwyLYX2Icsgi2w/maxresdefault.jpg)](https://www.youtube.com/watch?v=cL77Uqc5aMg)
+https://youtube.com/cL77Uqc5aMg
+[![Video](https://img.youtube.com/vi/cL77Uqc5aMg/maxresdefault.jpg)](https://www.youtube.com/watch?v=cL77Uqc5aMg)
