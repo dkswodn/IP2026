@@ -12,4 +12,4 @@ https://youtu.be/Ak7dAyYFZ_o
 
 ## HW3
 
-<img width="465" height="324" alt="스크린샷 2026-03-17 153733" src="[https://github.com/user-attachments/assets/2e1d14f5-186b-4e29-b449-ce10949eda25"] />
+<img width="465" height="324" alt="HW3" src="https://github.com/user-attachments/assets/54f9aa9a-70df-4c98-8217-5f315076c9ce" />
