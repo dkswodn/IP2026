@@ -12,4 +12,4 @@ https://youtu.be/Ak7dAyYFZ_o
 
 ## HW3
 
-<img width="465" height="324" alt="스크린샷 2026-03-17 153733" src="[https://github.com/user-attachments/assets/2e1d14f5-186b-4e29-b449-ce10949eda25"](https://github.com/dkswodn/IP2026/blob/main/homework3.ipynb) />
+<img width="465" height="324" alt="스크린샷 2026-03-17 153733" src="[https://github.com/user-attachments/assets/2e1d14f5-186b-4e29-b449-ce10949eda25"] />
