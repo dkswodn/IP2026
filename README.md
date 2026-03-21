@@ -2,8 +2,8 @@
 
 ## HW1
 
-https://youtu.be/xjpruFK_8w
-[![Video](https://img.youtube.com/vi/xjpruFK_8w/maxresdefault.jpg)](https://www.youtube.com/watch?v=xjpruFK_8wM)
+https://youtu.be/xjpruFK_8wM
+[![Video](https://img.youtube.com/vi/xjpruFK_8wM/maxresdefault.jpg)](https://www.youtube.com/watch?v=xjpruFK_8wM)
 
 ## HW2
 
