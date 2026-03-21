@@ -2,7 +2,7 @@
 
 ## HW1
 
-https://youtube.com/xjpruFK_8w
+https://youtu.be/xjpruFK_8w
 [![Video](https://img.youtube.com/vi/xjpruFK_8w/maxresdefault.jpg)](https://www.youtube.com/watch?v=xjpruFK_8wM)
 
 ## HW2
