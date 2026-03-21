@@ -12,5 +12,6 @@ https://youtu.be/Ak7dAyYFZ_o
 
 ## HW3
 
-<img width="465" height="324" alt="HW3" src="https://github.com/user-attachments/assets/54f9aa9a-70df-4c98-8217-5f315076c9ce" />
-[![LINK](https://github.com/dkswodn/IP2026/blob/main/homework3.ipynb)](https://github.com/dkswodn/IP2026/blob/main/homework3.ipynb)
+<a href="https://github.com/dkswodn/IP2026/blob/main/homework3.ipynb">
+  <img width="465" height="324" src="https://github.com/user-attachments/assets/54f9aa9a-70df-4c98-8217-5f315076c9ce">
+</a>
